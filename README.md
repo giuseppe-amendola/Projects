@@ -1,5 +1,5 @@
 # Projects
-List of data science project I have been working on.
+Notebook folder with data science project I have been working on.
 
 
 50+ hours of intensive data science training on DataCamp
