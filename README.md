@@ -2,7 +2,7 @@
 Notebook folder with data science project I have been working on.
 
 # Trainings
-50+ hours of intensive data science training on DataCamp
+100+ hours of intensive data science training on DataCamp
 Trainigs completed:
 
 - Introduction to Python
